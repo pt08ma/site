@@ -1,0 +1,14 @@
+{
+  "MyProfile": {
+    "description": "Auto imported from /components/MyProfile.vue"
+  },
+  "LazyMyProfile": {
+    "description": "Auto imported from /components/MyProfile.vue"
+  },
+  "SoundcloudPlayer": {
+    "description": "Auto imported from /components/SoundcloudPlayer.vue"
+  },
+  "LazySoundcloudPlayer": {
+    "description": "Auto imported from /components/SoundcloudPlayer.vue"
+  }
+}
