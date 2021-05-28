@@ -19,7 +19,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' }
+      { hid: 'description', name: 'description', content: 'music mp3 pop rock emo shoegazer electronica techno soundcloud' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: 'img/favicon.ico' }

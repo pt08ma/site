@@ -10,12 +10,12 @@
   },
   "dependencies": {
     "@nuxtjs/google-analytics": "^2.4.0",
-    "core-js": "^3.8.2",
-    "nuxt": "^2.14.12"
+    "core-js": "^3.13.0",
+    "nuxt": "^2.15.6"
   },
   "devDependencies": {
     "@nuxtjs/dotenv": "^1.4.1",
-    "@nuxtjs/vuetify": "^1.11.2",
+    "@nuxtjs/vuetify": "^1.11.3",
     "cross-env": "^7.0.3"
   }
 }
