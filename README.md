@@ -1,20 +1,5 @@
-# pt08ma
+# Not enough to read...
 
-## Build Setup
+This repository is a personal site of pt08ma.
 
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+[https://pt08ma.github.io/site/](https://pt08ma.github.io/site/)
